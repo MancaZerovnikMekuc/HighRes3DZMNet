@@ -1,4 +1,4 @@
-This repository contains a HighRes3DZMNet architecture for segmentation of volumetric data (it is implemented in highres3dnet_norm.py). It is based on the NiftyNet framework.
+This repository contains a HighRes3DZMNet architecture for segmentation of volumetric data (it is implemented in highres3dnet_norm.py). Everything is based on the NiftyNet framework.
 
 ### Set up for the first time
 ##### WINDOWS:
