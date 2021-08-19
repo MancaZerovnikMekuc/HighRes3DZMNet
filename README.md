@@ -16,7 +16,6 @@ To deactivate virtual enviroment in CMD:
 * ```deactivate```
 
 
-Note: I am using PyCharm where I set the virtual env. It activates whenever I open the project.
 
 ##### LINUX:
 Similar process. Create virtual enviroment, activate it and install requirements. 
