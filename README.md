@@ -1,6 +1,5 @@
-# Mitochondria Lysosomes Endosomes Segmentation
-This is 2nd version of repo with better architecture. Original repo:
-https://bitbucket.org/ul-fri-lgm/mitochondrialysosomesendosomessegmentation/src/master/
+This repository contains a HighRes3DNet architecture for segmentation of volumetric data. It is based on the NiftyNet framework.
+
 ### Set up for the first time
 ##### WINDOWS:
 in CMD:
