@@ -1,0 +1,10 @@
+model
+venv
+.idea
+**.pyc
+dataSplitFiles/*.csv
+train.py
+evaluate.py
+infere.py
+models
+collectOutput.py
